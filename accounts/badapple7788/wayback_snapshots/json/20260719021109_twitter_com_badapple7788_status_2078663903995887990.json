@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2078663903995887990",
+    "created_at": "2026-07-19T02:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078663903995887990"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dudyoji/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/dudyoji/status/2078293587297448180",
+          "start": 36,
+          "url": "https://t.co/KTg5rDPRZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078663903995887990",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078293587297448180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "사진을 보내주실 때 먼저 워터마크를 제거해 주세요. 감사합니다. https://t.co/KTg5rDPRZ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2078293580616286208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNeVABObwAAEIAx.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2078663903995887990",
+        "created_at": "2026-07-19T02:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078663903995887990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dudyoji/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/dudyoji/status/2078293587297448180",
+              "start": 36,
+              "url": "https://t.co/KTg5rDPRZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078663903995887990",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078293587297448180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "사진을 보내주실 때 먼저 워터마크를 제거해 주세요. 감사합니다. https://t.co/KTg5rDPRZ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078293580616286208"
+          ]
+        },
+        "author_id": "2045733724499709952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078293587297448180",
+        "created_at": "2026-07-18T01:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078293587297448180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y83bczLCAH",
+              "end": 43,
+              "expanded_url": "https://x.com/dudyoji/status/2078293587297448180/photo/1",
+              "media_key": "3_2078293580616286208",
+              "start": 20,
+              "url": "https://t.co/y83bczLCAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078293587297448180",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1928,
+          "impression_count": 950157,
+          "like_count": 23589,
+          "quote_count": 1435,
+          "reply_count": 112,
+          "retweet_count": 7919
+        },
+        "reply_settings": "everyone",
+        "text": "얘들아 맥날에서 나랑같이 공룡만들자 https://t.co/y83bczLCAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 284,
+          "like_count": 2763,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 1658
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T05:18:34.000Z",
+        "description": "#Bluelady💙🤙/ 📧 : nongkuma@naver.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "Bluelady"
+              }
+            ]
+          }
+        },
+        "id": "2045733724499709952",
+        "location": "너는 무서워하면서 끝까지 걸어가는 사람",
+        "name": "두됴지",
+        "pinned_tweet_id": "2077672129705947299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054849324480442368/FYY63uM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4820,
+          "following_count": 1996,
+          "like_count": 60202,
+          "listed_count": 15,
+          "media_count": 2312,
+          "tweet_count": 58739
+        },
+        "url": "",
+        "username": "dudyoji",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2080087627240529922",
+    "created_at": "2026-07-23T11:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080247089544757695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1918261520817065984",
+          "start": 0,
+          "username": "EmptyVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080247089544757695",
+    "in_reply_to_user_id": "1918261520817065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080087627240529922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmptyVx 青少年🤓药物滥用🤤现象真的👍很让人痛心😭，家长和学校😢都应该加强教育😇，不要❌让孩子们😎误入歧途🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2080087627240529922",
+        "created_at": "2026-07-23T11:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080247089544757695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1918261520817065984",
+              "start": 0,
+              "username": "EmptyVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080247089544757695",
+        "in_reply_to_user_id": "1918261520817065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080087627240529922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmptyVx 青少年🤓药物滥用🤤现象真的👍很让人痛心😭，家长和学校😢都应该加强教育😇，不要❌让孩子们😎误入歧途🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918261520817065984",
+        "conversation_id": "2080087627240529922",
+        "created_at": "2026-07-23T00:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T01:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080087627240529922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ace_purin/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/ace_purin/status/2079612982938739164",
+              "start": 76,
+              "url": "https://t.co/Lso67X3Eim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080087627240529922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079612982938739164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸毒就是滥用药物，尤其青少年，抓起你手中的药，从此走出健全路，要让你的爹妈在天台上眼含泪水。这世界上还有很多的低谷等着你不要因为一时的美好就爱惜自己。 https://t.co/Lso67X3Eim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 301,
+          "like_count": 2922,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 1725
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，无性恋，我能罵你說明你也是糖到極致了，看见了会回Fo💅",
+        "id": "1918261520817065984",
+        "location": "塔菲國",
+        "name": "糖人日記",
+        "pinned_tweet_id": "2008527706208842184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 213,
+          "like_count": 109,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "EmptyVx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2079462933655073108",
+    "created_at": "2026-07-21T07:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079465110721134611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990166110067662848",
+          "start": 0,
+          "username": "engine613089311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079465110721134611",
+    "in_reply_to_user_id": "1990166110067662848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079462933655073108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@engine613089311 暗广是吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_2079462931268612096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNu8hL3bsAADY4k.jpg",
+        "width": 356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2079462933655073108",
+        "created_at": "2026-07-21T07:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079465110721134611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990166110067662848",
+              "start": 0,
+              "username": "engine613089311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079465110721134611",
+        "in_reply_to_user_id": "1990166110067662848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079462933655073108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@engine613089311 暗广是吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079462931268612096"
+          ]
+        },
+        "author_id": "1990166110067662848",
+        "conversation_id": "2079462933655073108",
+        "created_at": "2026-07-21T07:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079462933655073108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nglkj82STC",
+              "end": 29,
+              "expanded_url": "https://x.com/engine613089311/status/2079462933655073108/photo/1",
+              "media_key": "3_2079462931268612096",
+              "start": 6,
+              "url": "https://t.co/Nglkj82STC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079462933655073108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘关注量 https://t.co/Nglkj82STC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 292,
+          "like_count": 2793,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1676
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T21:12:42.000Z",
+        "description": "07摩羯intj，switch（应该？）门槛2778/1145.14\nhttps://t.co/gdE2DLPs6f\n匿名问题，勋美康粉\n男，不见证不打拳，专心经营自己的唐氏生活中...这里算是我的牢骚日记本，偶尔更新点鬼脑发动的黄色废料，浩all党\n最近暂时不发帖\n我的小号@wazgsj8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 138,
+                "username": "wazgsj8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/engine48856",
+                "end": 58,
+                "expanded_url": "https://ngl.link/engine48856",
+                "start": 35,
+                "url": "https://t.co/gdE2DLPs6f"
+              }
+            ]
+          }
+        },
+        "id": "1990166110067662848",
+        "location": "你心里",
+        "name": "engine（已解放）",
+        "pinned_tweet_id": "2048669196079472871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011991340222201856/_IxOo9AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 403,
+          "like_count": 26258,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 5094
+        },
+        "url": "",
+        "username": "engine613089311",
+        "verified": false
+      }
+    ]
+  }
+}

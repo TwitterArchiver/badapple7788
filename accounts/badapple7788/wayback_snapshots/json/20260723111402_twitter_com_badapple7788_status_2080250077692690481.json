@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2079838263419007121",
+    "created_at": "2026-07-23T11:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080250077692690481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966372495440941056",
+          "start": 0,
+          "username": "hw14vAWcAK58107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080250077692690481",
+    "in_reply_to_user_id": "1966372495440941056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080064518156349922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hw14vAWcAK58107 北京？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2079838263419007121",
+        "created_at": "2026-07-23T11:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080250077692690481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966372495440941056",
+              "start": 0,
+              "username": "hw14vAWcAK58107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080250077692690481",
+        "in_reply_to_user_id": "1966372495440941056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080064518156349922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hw14vAWcAK58107 北京？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966372495440941056",
+        "conversation_id": "2079838263419007121",
+        "created_at": "2026-07-22T22:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T23:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080064518156349922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "badapple7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080064518156349922",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079838263419007121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badapple7788 全被老习的中南海专网分走了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 301,
+          "like_count": 2928,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 1727
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-12T05:25:25.000Z",
+        "description": "无人在意的音游人|and不知道怎么写简介遂摆烂的|求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ask83110",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ask83110",
+                "start": 0,
+                "url": "https://t.co/1BlIGSzGaL"
+              }
+            ]
+          }
+        },
+        "id": "1966372495440941056",
+        "location": "Koto-ku, Tokyo",
+        "name": "﹋o﹋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044483905995350016/eVpd5b6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 281,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/1BlIGSzGaL",
+        "username": "hw14vAWcAK58107",
+        "verified": false
+      }
+    ]
+  }
+}

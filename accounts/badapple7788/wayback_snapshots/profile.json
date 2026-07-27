@@ -1,0 +1,29 @@
+{
+  "name": "辞落",
+  "username": "@badapple7788",
+  "bio": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://ngl.link/ciluo8 @plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od） 一天會發10+條推請見諒 发疯了可能会发一些逆天的话 INTJ | 多人格 | ed | BMI15.5 | 友跨",
+  "location": "在你的心里🩵",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 63,
+        "start": 54,
+        "username": "plane294"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "ngl.link/ciluo8",
+        "end": 53,
+        "expanded_url": "https://ngl.link/ciluo8",
+        "start": 30,
+        "url": "https://t.co/y3mWSTgOHQ"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2081409351663886735",
+    "created_at": "2026-07-26T16:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T17:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081409351663886735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kohoshitsumu/s…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/kohoshitsumu/status/2081356545796030755",
+          "start": 107,
+          "url": "https://t.co/DvskMkc8iE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081409351663886735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081356545796030755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们🫵这群几把🫵地雷女 又有钱💰买药💊吃 又有🎮游戏机💻 电脑玩 每天☁️不用上班💼上学🎒的 想吃😋什么外卖🍚点什么 想去👒哪里旅游🌎就去哪里旅游 🌎我不知道🤷你们一天在网上💻到底在崩溃😫什么几把 在痛苦😖什么😡 https://t.co/DvskMkc8iE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2081409351663886735",
+        "created_at": "2026-07-26T16:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081409351663886735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kohoshitsumu/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/kohoshitsumu/status/2081356545796030755",
+              "start": 107,
+              "url": "https://t.co/DvskMkc8iE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081409351663886735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081356545796030755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们🫵这群几把🫵地雷女 又有钱💰买药💊吃 又有🎮游戏机💻 电脑玩 每天☁️不用上班💼上学🎒的 想吃😋什么外卖🍚点什么 想去👒哪里旅游🌎就去哪里旅游 🌎我不知道🤷你们一天在网上💻到底在崩溃😫什么几把 在痛苦😖什么😡 https://t.co/DvskMkc8iE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004456046295973888",
+        "conversation_id": "2081356545796030755",
+        "created_at": "2026-07-26T12:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081356545796030755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainmoon0721/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/rainmoon0721/status/2081354210625585635",
+              "start": 107,
+              "url": "https://t.co/rA9U18uxsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081356545796030755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081354210625585635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们🫵这群几把🫵地雷女 又有钱💰买药💊吃 又有🎮游戏机💻 电脑玩 每天☁️不用上班💼上学🎒的 想吃😋什么外卖🍚点什么 想去👒哪里旅游🌎就去哪里旅游 🌎我不知道🤷你们一天在网上💻到底在崩溃😫什么几把 在痛苦😖什么😡 https://t.co/rA9U18uxsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 313,
+          "like_count": 3079,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期：𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度：-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜查成分回𝚏𝚘｜\n\n小星紡是百亿光年外早已逝去的双星，虽散发着光芒，但已然成为了尸体",
+        "id": "2004456046295973888",
+        "location": "只想永居于梦",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2080569587415040209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 354,
+          "like_count": 5907,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "kohoshitsumu",
+        "verified": false
+      }
+    ]
+  }
+}

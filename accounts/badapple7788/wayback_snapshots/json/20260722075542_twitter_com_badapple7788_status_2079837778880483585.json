@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2079788274693148707",
+    "created_at": "2026-07-22T07:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079837778880483585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2027832345001377792",
+          "start": 0,
+          "username": "zifenone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079837778880483585",
+    "in_reply_to_user_id": "2027832345001377792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079812042123571641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifenone 复制的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2079788274693148707",
+        "created_at": "2026-07-22T07:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079837778880483585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2027832345001377792",
+              "start": 0,
+              "username": "zifenone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079837778880483585",
+        "in_reply_to_user_id": "2027832345001377792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079812042123571641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifenone 复制的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027832345001377792",
+        "conversation_id": "2079788274693148707",
+        "created_at": "2026-07-22T06:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079812042123571641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "badapple7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079812042123571641",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079788274693148707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badapple7788 可以入典了🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 294,
+          "like_count": 2875,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-28T19:46:20.000Z",
+        "description": "男 09 泛性恋 0.5 23年是个目田区 因被晶哥请去喝茶遗憾退圈 意识形态毛左 不怎么键政 无🚪 健全人",
+        "id": "2027832345001377792",
+        "location": "向往自由的国度",
+        "name": "自分",
+        "pinned_tweet_id": "2074902635959009352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074893163450466305/K5mRyOZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 33,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "zifenone",
+        "verified": false
+      }
+    ]
+  }
+}

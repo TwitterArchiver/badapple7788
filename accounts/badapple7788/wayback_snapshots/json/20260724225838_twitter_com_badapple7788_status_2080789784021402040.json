@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2080667656122925553",
+    "created_at": "2026-07-24T22:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T23:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080789784021402040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880979169297022976",
+          "start": 0,
+          "username": "Wesley10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080789784021402040",
+    "in_reply_to_user_id": "1880979169297022976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080667656122925553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wesley10032 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2080667656122925553",
+        "created_at": "2026-07-24T22:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T23:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080789784021402040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880979169297022976",
+              "start": 0,
+              "username": "Wesley10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080789784021402040",
+        "in_reply_to_user_id": "1880979169297022976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080667656122925553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wesley10032 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880979169297022976",
+        "conversation_id": "2080667656122925553",
+        "created_at": "2026-07-24T14:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080667656122925553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/weixin_wechat/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/weixin_wechat/status/2080598206665338898",
+              "start": 13,
+              "url": "https://t.co/K4a7RvZ6rw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080667656122925553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1525,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080598206665338898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没绷住，腾讯官方还翻墙？ https://t.co/K4a7RvZ6rw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 302,
+          "like_count": 2972,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 1751
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-19T14:02:49.000Z",
+        "description": "中国人🇨🇳/♂/友跨🏳️‍⚧️\n或许是温和粉红/欢迎DM聊天(推荐使用TG)\n魔裁(まのさば)/CS2/三角洲/Galgame/IT \n兴趣相近互fo\n好基友@lockloveovo\n学生党 周末/节假日在线(暑假限时全天在线)\nCN/EN/JP\nTG群见置顶\n防失联@Wesley10033",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "lockloveovo"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "Wesley10033"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/Wesley10032",
+                "end": 23,
+                "expanded_url": "https://telegram.me/Wesley10032",
+                "start": 0,
+                "url": "https://t.co/Q5wiGuqCLC"
+              }
+            ]
+          }
+        },
+        "id": "1880979169297022976",
+        "location": "People's Republic of China",
+        "name": "Wesley",
+        "pinned_tweet_id": "2077761863937597659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 882,
+          "like_count": 8150,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/Q5wiGuqCLC",
+        "username": "Wesley10032",
+        "verified": true
+      }
+    ]
+  }
+}

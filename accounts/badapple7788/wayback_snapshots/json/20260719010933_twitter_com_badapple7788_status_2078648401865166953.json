@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2078349422493356176",
+    "created_at": "2026-07-19T01:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078648401865166953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1946212872046186496",
+          "start": 0,
+          "username": "DanChaoFannn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078648401865166953",
+    "in_reply_to_user_id": "1946212872046186496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078349422493356176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DanChaoFannn 这个我遇到过 吓人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078349413530148866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNfHx7CbIAIjZh7.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2078349422493356176",
+        "created_at": "2026-07-19T01:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078648401865166953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1946212872046186496",
+              "start": 0,
+              "username": "DanChaoFannn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078648401865166953",
+        "in_reply_to_user_id": "1946212872046186496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078349422493356176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanChaoFannn 这个我遇到过 吓人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078349413530148866"
+          ]
+        },
+        "author_id": "1946212872046186496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078349422493356176",
+        "created_at": "2026-07-18T05:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078349422493356176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pwQz5dY38r",
+              "end": 33,
+              "expanded_url": "https://x.com/DanChaoFannn/status/2078349422493356176/photo/1",
+              "media_key": "3_2078349413530148866",
+              "start": 10,
+              "url": "https://t.co/pwQz5dY38r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078349422493356176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 193372,
+          "like_count": 2009,
+          "quote_count": 48,
+          "reply_count": 297,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "来个这种我命都给他 https://t.co/pwQz5dY38r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 285,
+          "like_count": 2758,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 1655
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T14:18:49.000Z",
+        "description": "以为做遍亲密的事情就可以在一起一辈子 @imabcdi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "imabcdi"
+              }
+            ]
+          }
+        },
+        "id": "1946212872046186496",
+        "name": "蛋蛋炒饭",
+        "pinned_tweet_id": "2050172488118927650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049121078380036096/Z-oIP2-g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6443,
+          "following_count": 33,
+          "like_count": 1577,
+          "listed_count": 14,
+          "media_count": 104,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "DanChaoFannn",
+        "verified": false
+      }
+    ]
+  }
+}

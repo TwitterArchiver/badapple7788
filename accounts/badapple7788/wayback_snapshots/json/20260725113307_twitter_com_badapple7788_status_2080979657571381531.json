@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2080911589126131881",
+    "created_at": "2026-07-25T11:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080979657571381531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667423809148981248",
+          "start": 0,
+          "username": "2FlameCubed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080979657571381531",
+    "in_reply_to_user_id": "1667423809148981248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080922854141333570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2FlameCubed 爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2080911589126131881",
+        "created_at": "2026-07-25T11:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080979657571381531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667423809148981248",
+              "start": 0,
+              "username": "2FlameCubed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080979657571381531",
+        "in_reply_to_user_id": "1667423809148981248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080922854141333570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2FlameCubed 爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423809148981248",
+        "conversation_id": "2080911589126131881",
+        "created_at": "2026-07-25T07:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080922854141333570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "badapple7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080922854141333570",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080911589126131881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badapple7788 姐姐～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 307,
+          "like_count": 3028,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 1777
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-10T06:50:02.000Z",
+        "description": "天空，人与未来 ｜Space , the final frontier 🖖",
+        "id": "1667423809148981248",
+        "name": "flame",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040820876879491072/YKJr3h8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1067,
+          "like_count": 3310,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 436
+        },
+        "url": "",
+        "username": "2FlameCubed",
+        "verified": false
+      }
+    ]
+  }
+}

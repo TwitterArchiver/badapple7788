@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079527991332515840",
+        "3_2079527998647373824"
+      ],
+      "media_source_tweet_id": [
+        "2079528008679895365",
+        "2079528008679895365"
+      ]
+    },
+    "author_id": "1545050439049064450",
+    "conversation_id": "2079744051180621967",
+    "created_at": "2026-07-22T01:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T02:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079744051180621967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047687133708599296",
+          "start": 3,
+          "username": "themaniachan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7tT8vJMbk",
+          "end": 94,
+          "expanded_url": "https://x.com/themaniachan/status/2079528008679895365/photo/1",
+          "media_key": "3_2079527991332515840",
+          "start": 71,
+          "url": "https://t.co/m7tT8vJMbk"
+        },
+        {
+          "display_url": "pic.x.com/m7tT8vJMbk",
+          "end": 94,
+          "expanded_url": "https://x.com/themaniachan/status/2079528008679895365/photo/1",
+          "media_key": "3_2079527998647373824",
+          "start": 71,
+          "url": "https://t.co/m7tT8vJMbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079744051180621967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079528008679895365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @themaniachan: 按照这套图的话我对主耶稣和mzt就是崇拜系病娇（）\n好严格喔这样子喜欢和崇拜一个人就被划到病娇里面去了w https://t.co/m7tT8vJMbk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2079527991332515840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv3sLfbMAAhvOB.jpg",
+        "width": 850
+      },
+      {
+        "height": 1714,
+        "media_key": "3_2079527998647373824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv3smvbEAA9un2.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079527991332515840",
+            "3_2079527998647373824"
+          ]
+        },
+        "author_id": "2047687133708599296",
+        "conversation_id": "2079528008679895365",
+        "created_at": "2026-07-21T11:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079528008679895365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7tT8vJMbk",
+              "end": 76,
+              "expanded_url": "https://x.com/themaniachan/status/2079528008679895365/photo/1",
+              "media_key": "3_2079527991332515840",
+              "start": 53,
+              "url": "https://t.co/m7tT8vJMbk"
+            },
+            {
+              "display_url": "pic.x.com/m7tT8vJMbk",
+              "end": 76,
+              "expanded_url": "https://x.com/themaniachan/status/2079528008679895365/photo/1",
+              "media_key": "3_2079527998647373824",
+              "start": 53,
+              "url": "https://t.co/m7tT8vJMbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079528008679895365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "按照这套图的话我对主耶稣和mzt就是崇拜系病娇（）\n好严格喔这样子喜欢和崇拜一个人就被划到病娇里面去了w https://t.co/m7tT8vJMbk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079527991332515840",
+            "3_2079527998647373824"
+          ],
+          "media_source_tweet_id": [
+            "2079528008679895365",
+            "2079528008679895365"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2079744051180621967",
+        "created_at": "2026-07-22T01:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T02:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079744051180621967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047687133708599296",
+              "start": 3,
+              "username": "themaniachan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7tT8vJMbk",
+              "end": 94,
+              "expanded_url": "https://x.com/themaniachan/status/2079528008679895365/photo/1",
+              "media_key": "3_2079527991332515840",
+              "start": 71,
+              "url": "https://t.co/m7tT8vJMbk"
+            },
+            {
+              "display_url": "pic.x.com/m7tT8vJMbk",
+              "end": 94,
+              "expanded_url": "https://x.com/themaniachan/status/2079528008679895365/photo/1",
+              "media_key": "3_2079527998647373824",
+              "start": 71,
+              "url": "https://t.co/m7tT8vJMbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079744051180621967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079528008679895365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @themaniachan: 按照这套图的话我对主耶稣和mzt就是崇拜系病娇（）\n好严格喔这样子喜欢和崇拜一个人就被划到病娇里面去了w https://t.co/m7tT8vJMbk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 292,
+          "like_count": 2827,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1689
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2077345798665515084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 245,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1169
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": true
+      }
+    ]
+  }
+}

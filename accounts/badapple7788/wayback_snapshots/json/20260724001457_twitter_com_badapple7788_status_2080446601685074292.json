@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080446588976312320"
+      ]
+    },
+    "author_id": "1545050439049064450",
+    "conversation_id": "2080133888421286013",
+    "created_at": "2026-07-24T00:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080446601685074292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942368986051796992",
+          "start": 0,
+          "username": "CunZai1069"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkEuLHcCYB",
+          "end": 35,
+          "expanded_url": "https://x.com/badapple7788/status/2080446601685074292/photo/1",
+          "media_key": "3_2080446588976312320",
+          "start": 12,
+          "url": "https://t.co/KkEuLHcCYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080446601685074292",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080133888421286013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CunZai1069 https://t.co/KkEuLHcCYB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3386,
+        "media_key": "3_2080446588976312320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN87JmYbMAAs51w.jpg",
+        "width": 3386
+      },
+      {
+        "height": 1298,
+        "media_key": "3_2080133881551015936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4evocaUAAu1e-.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080446588976312320"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2080133888421286013",
+        "created_at": "2026-07-24T00:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080446601685074292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkEuLHcCYB",
+              "end": 35,
+              "expanded_url": "https://x.com/badapple7788/status/2080446601685074292/photo/1",
+              "media_key": "3_2080446588976312320",
+              "start": 12,
+              "url": "https://t.co/KkEuLHcCYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080446601685074292",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080133888421286013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 https://t.co/KkEuLHcCYB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080133881551015936"
+          ]
+        },
+        "author_id": "1942368986051796992",
+        "conversation_id": "2080133888421286013",
+        "created_at": "2026-07-23T03:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080133888421286013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJItiKeUaM",
+              "end": 23,
+              "expanded_url": "https://x.com/CunZai1069/status/2080133888421286013/photo/1",
+              "media_key": "3_2080133881551015936",
+              "start": 0,
+              "url": "https://t.co/oJItiKeUaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080133888421286013",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2804,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oJItiKeUaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2077121942403035280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078324247873933312/0706zdEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 301,
+          "like_count": 2939,
+          "listed_count": 1,
+          "media_count": 314,
+          "tweet_count": 1732
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "CS专业 | INTP | 重抑重焦 | 一切艺术 | 艰苦求生中…… | 私信看到就会回复的！个人网站https://t.co/jvcfxxDPos但是目前还在搭建中……@Guanyiwlz7是给",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Guanyiwlz7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 75,
+                "expanded_url": "https://www.cun-zai.com",
+                "start": 52,
+                "url": "https://t.co/jvcfxxDPos"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2065313131057098790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065415683622760449/W9azSrax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1290,
+          "like_count": 4530,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

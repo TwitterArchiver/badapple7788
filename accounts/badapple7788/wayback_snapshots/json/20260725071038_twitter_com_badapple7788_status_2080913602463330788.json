@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2080707602821099931",
+    "created_at": "2026-07-25T07:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080913602463330788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004456046295973888",
+          "start": 0,
+          "username": "kohoshitsumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080913602463330788",
+    "in_reply_to_user_id": "2004456046295973888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080902367642566820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kohoshitsumu 抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_2080902302316335104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HODZnm3bkAA-PS7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HODZnm3bkAA-PS7.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2080707602821099931",
+        "created_at": "2026-07-25T07:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080913602463330788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004456046295973888",
+              "start": 0,
+              "username": "kohoshitsumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080913602463330788",
+        "in_reply_to_user_id": "2004456046295973888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080902367642566820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kohoshitsumu 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2080902302316335104"
+          ]
+        },
+        "author_id": "2004456046295973888",
+        "conversation_id": "2080707602821099931",
+        "created_at": "2026-07-25T06:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080902367642566820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "badapple7788"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGCmOGVk83",
+              "end": 41,
+              "expanded_url": "https://x.com/kohoshitsumu/status/2080902367642566820/photo/1",
+              "media_key": "16_2080902302316335104",
+              "start": 18,
+              "url": "https://t.co/UGCmOGVk83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080902367642566820",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080707602821099931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badapple7788 摸摸🥹 https://t.co/UGCmOGVk83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 305,
+          "like_count": 3022,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 1772
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-26T07:35:49.000Z",
+        "description": "｜女｜生产日期：𝟚𝟘𝟙𝟙/𝟘𝟜/𝟚𝟘｜猫🐈｜🚫🏫休学🎒🚫｜❤️💻𝙄𝙉𝙏𝙀𝙍𝙉𝙀𝙏重度依赖💻❤️｜社恐｜自闭｜抑郁｜焦虑｜双相｜画渣｜学渣｜人生目标达成度：-𝟒𝟎𝟒%/𝟏𝟎𝟎%｜查成分回𝚏𝚘｜\n\n小星紡是百亿光年外早已逝去的双星，虽散发着光芒，但已然成为了尸体",
+        "id": "2004456046295973888",
+        "location": "只想永居于梦",
+        "name": "小星紡ーこほしつむ",
+        "pinned_tweet_id": "2080569587415040209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078476911836086272/XWUEOnTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 266,
+          "like_count": 3223,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "kohoshitsumu",
+        "verified": false
+      }
+    ]
+  }
+}
