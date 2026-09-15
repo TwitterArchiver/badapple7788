@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-15T18:05:45",
+  "last_updated": "2026-09-15T18:06:02",
   "html": {
     "https://web.archive.org/web/20260719050211if_/https://twitter.com/badapple7788/status/2078706946966995302": {
       "status": "done",
@@ -2373,16 +2373,20 @@
       "last_updated": "2026-07-27T16:08:24"
     },
     "https://video.twimg.com/amplify_video/2082593477314093056/vid/avc1/576x1280/RmyoNRl38dJ0EqtC.mp4": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260730083059_twitter_com_badapple7788_status_2082745761079718335.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:06:02",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260730083059/https://video.twimg.com/amplify_video/2082593477314093056/vid/avc1/576x1280/RmyoNRl38dJ0EqtC.mp4",
+      "miss_count": 1
     },
     "https://video.twimg.com/amplify_video/2088238927224406016/vid/avc1/368x656/ijonDQtB9WDsVvTg.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260815100319_twitter_com_badapple7788_status_2088567201163088212.json"
-      ]
+      ],
+      "last_updated": "2026-09-15T18:06:02"
     }
   },
   "avatars": {
@@ -5525,8 +5529,8 @@
           "https://pbs.twimg.com/profile_images/2077596000076570624/BQeRyl4N_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:25",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260726102213_twitter_com_badapple7788_status_2081324200346968121.json": {
       "status": "failed",
@@ -5541,8 +5545,8 @@
           "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260726145506_twitter_com_badapple7788_status_2081392875573817354.json": {
       "status": "done",
@@ -5591,8 +5595,8 @@
           "https://pbs.twimg.com/profile_images/2059902463524888576/lFO39T_3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260726161233_twitter_com_badapple7788_status_2081412366521250205.json": {
       "status": "unknown",
@@ -5604,7 +5608,7 @@
           "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260726162410_twitter_com_badapple7788_status_2081415289326215351.json": {
       "status": "unknown",
@@ -5616,7 +5620,7 @@
           "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260727004246_twitter_com_badapple7788_status_2081540766976049323.json": {
       "status": "done",
@@ -5642,8 +5646,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260727014138_twitter_com_badapple7788_status_2081555579861074255.json": {
       "status": "done",
@@ -5667,8 +5671,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260727062313_twitter_com_badapple7788_status_2081626444900475048.json": {
       "status": "done",
@@ -5761,7 +5765,7 @@
           "https://pbs.twimg.com/profile_images/2004910874897907712/QA8ibrUG_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:16"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260727084018_twitter_com_badapple7788_status_2081660942467870940.json": {
       "status": "unknown",
@@ -5775,7 +5779,7 @@
           "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:16"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260727084958_twitter_com_badapple7788_status_2081663372513452304.json": {
       "status": "unknown",
@@ -5788,7 +5792,7 @@
           "https://pbs.twimg.com/profile_images/1998077784149884936/OTy6-Uac_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260727094140_twitter_com_badapple7788_status_2081676383978406313.json": {
       "status": "done",
@@ -5860,8 +5864,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:33",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260727144910_twitter_com_badapple7788_status_2081753769747108161.json": {
       "status": "done",
@@ -5885,7 +5889,7 @@
           "https://pbs.twimg.com/profile_images/2079706925672108032/C-dn3HyO_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260727145055_twitter_com_badapple7788_status_2081754210396524650.json": {
       "status": "done",
@@ -5920,7 +5924,7 @@
           "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728022408_twitter_com_badapple7788_status_2081928664757981287.json": {
       "status": "failed",
@@ -5934,8 +5938,8 @@
           "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260728022655_twitter_com_badapple7788_status_2081929365059977605.json": {
       "status": "unknown",
@@ -5947,7 +5951,7 @@
           "https://pbs.twimg.com/profile_images/2071690011079237633/Ias3-Tz9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728024236_twitter_com_badapple7788_status_2081933312617275531.json": {
       "status": "done",
@@ -5974,7 +5978,7 @@
           "https://pbs.twimg.com/profile_images/2003513482939867136/VilQZ22__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:17"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728033549_twitter_com_badapple7788_status_2081946702639178078.json": {
       "status": "done",
@@ -5998,7 +6002,7 @@
           "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728052421_twitter_com_badapple7788_status_2081974016877982072.json": {
       "status": "done",
@@ -6021,7 +6025,7 @@
           "https://pbs.twimg.com/profile_images/2074950503411458048/hewMJ6aY_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728084129_twitter_com_badapple7788_status_2082023625465737673.json": {
       "status": "unknown",
@@ -6033,7 +6037,7 @@
           "https://pbs.twimg.com/profile_images/2081029089423728640/mA47Tk3l_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728103615_twitter_com_badapple7788_status_2082052510848782364.json": {
       "status": "failed",
@@ -6047,8 +6051,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260728111038_twitter_com_badapple7788_status_2082061162532028489.json": {
       "status": "done",
@@ -6071,7 +6075,7 @@
           "https://pbs.twimg.com/profile_images/2072659917027299328/L5Yl2wZn_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728124624_twitter_com_badapple7788_status_2082085260494602474.json": {
       "status": "unknown",
@@ -6083,7 +6087,7 @@
           "https://pbs.twimg.com/profile_images/2060106231742955520/TGN7uY0b_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260728135615_twitter_com_badapple7788_status_2082102840206803257.json": {
       "status": "done",
@@ -6110,7 +6114,7 @@
           "https://pbs.twimg.com/profile_images/2082276321770745857/Y1ng3Ajy_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:27"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260729101312_twitter_com_badapple7788_status_2082409095223751014.json": {
       "status": "done",
@@ -6147,7 +6151,7 @@
           "https://pbs.twimg.com/profile_images/2075063224819679232/hHBaIcMc_normal.png"
         ]
       },
-      "last_updated": "2026-09-15T18:02:17"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260730014327_twitter_com_badapple7788_status_2082643202205745311.json": {
       "status": "done",
@@ -6194,7 +6198,7 @@
           "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260730083059_twitter_com_badapple7788_status_2082745761079718335.json": {
       "status": "unknown",
@@ -6208,7 +6212,7 @@
           "https://pbs.twimg.com/profile_images/2082169865146949632/CxpDCaV-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:02"
     },
     "20260730083600_twitter_com_badapple7788_status_2082747021610700958.json": {
       "status": "unknown",
@@ -6220,7 +6224,7 @@
           "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260730083805_twitter_com_badapple7788_status_2082747545252684102.json": {
       "status": "done",
@@ -6302,7 +6306,7 @@
           "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801013656_twitter_com_badapple7788_status_2083366337339109513.json": {
       "status": "unknown",
@@ -6314,7 +6318,7 @@
           "https://pbs.twimg.com/profile_images/1860587158731653120/sZ21AxRo_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801014025_twitter_com_badapple7788_status_2083367211746681150.json": {
       "status": "done",
@@ -6337,7 +6341,7 @@
           "https://pbs.twimg.com/profile_images/2082903605410152448/gecVY7Vp_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801081334_twitter_com_badapple7788_status_2083466155164119374.json": {
       "status": "unknown",
@@ -6349,7 +6353,7 @@
           "https://pbs.twimg.com/profile_images/2083199516275343360/Sh0MJQ6S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801081406_twitter_com_badapple7788_status_2083466288123482346.json": {
       "status": "done",
@@ -6375,7 +6379,7 @@
           "https://pbs.twimg.com/profile_images/2069822395335200770/529_1vlk_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801135611_twitter_com_badapple7788_status_2083552373860090013.json": {
       "status": "done",
@@ -6400,7 +6404,7 @@
           "https://pbs.twimg.com/profile_images/2069822395335200770/529_1vlk_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801135906_twitter_com_badapple7788_status_2083553111092978005.json": {
       "status": "unknown",
@@ -6414,7 +6418,7 @@
           "https://pbs.twimg.com/profile_images/2063891620634988544/WFyDAO9d_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:16"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801142059_twitter_com_badapple7788_status_2083558617459122666.json": {
       "status": "done",
@@ -6439,7 +6443,7 @@
           "https://pbs.twimg.com/profile_images/1996278257709395968/3WbiD3Fl_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:16"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801151331_twitter_com_badapple7788_status_2083571837435556053.json": {
       "status": "unknown",
@@ -6451,7 +6455,7 @@
           "https://pbs.twimg.com/profile_images/2080949461128462336/buEHLXUV_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801151704_twitter_com_badapple7788_status_2083572731271127324.json": {
       "status": "done",
@@ -6476,7 +6480,7 @@
           "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801155250_twitter_com_badapple7788_status_2083581730167161283.json": {
       "status": "unknown",
@@ -6488,7 +6492,7 @@
           "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801155426_twitter_com_badapple7788_status_2083582133088796870.json": {
       "status": "unknown",
@@ -6500,7 +6504,7 @@
           "https://pbs.twimg.com/profile_images/2079208060459819008/hnWlX-of_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801172617_twitter_com_badapple7788_status_2083605247239585982.json": {
       "status": "unknown",
@@ -6516,7 +6520,7 @@
           "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:27"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260801172700_twitter_com_badapple7788_status_2083605430975291881.json": {
       "status": "unknown",
@@ -6532,7 +6536,7 @@
           "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:27"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260802023055_twitter_com_badapple7788_status_2083742310677074064.json": {
       "status": "failed",
@@ -6545,8 +6549,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260802080716_twitter_com_badapple7788_status_2083826956274155755.json": {
       "status": "failed",
@@ -6559,8 +6563,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260802090200_twitter_com_badapple7788_status_2083840731475853482.json": {
       "status": "unknown",
@@ -6572,7 +6576,7 @@
           "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260802123859_twitter_com_badapple7788_status_2083895335769035157.json": {
       "status": "failed",
@@ -6585,8 +6589,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260802124921_twitter_com_badapple7788_status_2083897943967617294.json": {
       "status": "unknown",
@@ -6598,7 +6602,7 @@
           "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:15"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260802133308_twitter_com_badapple7788_status_2083908962488033468.json": {
       "status": "failed",
@@ -6611,8 +6615,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260802150647_twitter_com_badapple7788_status_2083932528440922463.json": {
       "status": "unknown",
@@ -6624,7 +6628,7 @@
           "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:16"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260802150800_twitter_com_badapple7788_status_2083932835975721447.json": {
       "status": "failed",
@@ -6639,8 +6643,8 @@
           "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260802153827_twitter_com_badapple7788_status_2083940497622773868.json": {
       "status": "done",
@@ -6665,8 +6669,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260802161548_twitter_com_badapple7788_status_2083949899016806475.json": {
       "status": "failed",
@@ -6679,8 +6683,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260802163901_twitter_com_badapple7788_status_2083955740558160220.json": {
       "status": "done",
@@ -6728,7 +6732,7 @@
           "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260802222034_twitter_com_badapple7788_status_2084041695830872209.json": {
       "status": "done",
@@ -6785,8 +6789,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260803074522_twitter_com_badapple7788_status_2084183833763856399.json": {
       "status": "done",
@@ -6844,8 +6848,8 @@
           "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21",
-      "miss_count": 1
+      "last_updated": "2026-09-15T18:06:01",
+      "miss_count": 2
     },
     "20260803101547_twitter_com_badapple7788_status_2084221686950576323.json": {
       "status": "unknown",
@@ -6857,7 +6861,7 @@
           "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803101600_twitter_com_badapple7788_status_2084221740482453546.json": {
       "status": "unknown",
@@ -6869,7 +6873,7 @@
           "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803104144_twitter_com_badapple7788_status_2084228215724552640.json": {
       "status": "unknown",
@@ -6881,7 +6885,7 @@
           "https://pbs.twimg.com/profile_images/2083897495005069312/ZUgfemMK_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803104441_twitter_com_badapple7788_status_2084228956660834758.json": {
       "status": "unknown",
@@ -6893,7 +6897,7 @@
           "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803104621_twitter_com_badapple7788_status_2084229378310127819.json": {
       "status": "unknown",
@@ -6907,7 +6911,7 @@
           "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803105402_twitter_com_badapple7788_status_2084231312836333759.json": {
       "status": "unknown",
@@ -6924,7 +6928,7 @@
           "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803110230_twitter_com_badapple7788_status_2084233443135950931.json": {
       "status": "unknown",
@@ -6937,7 +6941,7 @@
           "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803111457_twitter_com_badapple7788_status_2084236574452281468.json": {
       "status": "done",
@@ -6975,7 +6979,7 @@
           "https://pbs.twimg.com/profile_images/2081470581401325568/vwCqtcPc_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260803153005_twitter_com_badapple7788_status_2084300783802372435.json": {
       "status": "done",
@@ -7000,7 +7004,7 @@
           "https://pbs.twimg.com/profile_images/2084261179497848833/Jb82W0Ir_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804000634_twitter_com_badapple7788_status_2084430758924738571.json": {
       "status": "unknown",
@@ -7011,7 +7015,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804024912_twitter_com_badapple7788_status_2084471685860950207.json": {
       "status": "unknown",
@@ -7023,7 +7027,7 @@
           "https://pbs.twimg.com/profile_images/2011991340222201856/_IxOo9AT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804064554_twitter_com_badapple7788_status_2084531254561767894.json": {
       "status": "unknown",
@@ -7034,7 +7038,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804064756_twitter_com_badapple7788_status_2084531767739073021.json": {
       "status": "unknown",
@@ -7045,7 +7049,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804070456_twitter_com_badapple7788_status_2084536045601947933.json": {
       "status": "unknown",
@@ -7058,7 +7062,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804103528_twitter_com_badapple7788_status_2084589027655876863.json": {
       "status": "unknown",
@@ -7071,7 +7075,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804121151_twitter_com_badapple7788_status_2084613283991158815.json": {
       "status": "unknown",
@@ -7083,7 +7087,7 @@
           "https://pbs.twimg.com/profile_images/2011991340222201856/_IxOo9AT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260804122108_twitter_com_badapple7788_status_2084615617567744112.json": {
       "status": "unknown",
@@ -7095,7 +7099,7 @@
           "https://pbs.twimg.com/profile_images/2011991340222201856/_IxOo9AT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805031835_twitter_com_badapple7788_status_2084841469312111005.json": {
       "status": "unknown",
@@ -7107,7 +7111,7 @@
           "https://pbs.twimg.com/profile_images/2073513078717927424/VPdXQF1d_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805032136_twitter_com_badapple7788_status_2084842230850978245.json": {
       "status": "unknown",
@@ -7118,7 +7122,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805033253_twitter_com_badapple7788_status_2084845069040029775.json": {
       "status": "unknown",
@@ -7129,7 +7133,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805044741_twitter_com_badapple7788_status_2084863893164507321.json": {
       "status": "unknown",
@@ -7142,7 +7146,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805044835_twitter_com_badapple7788_status_2084864119963038059.json": {
       "status": "unknown",
@@ -7155,7 +7159,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805070945_twitter_com_badapple7788_status_2084899645197861012.json": {
       "status": "unknown",
@@ -7166,7 +7170,7 @@
           "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805073701_twitter_com_badapple7788_status_2084906508601725355.json": {
       "status": "unknown",
@@ -7180,7 +7184,7 @@
           "https://pbs.twimg.com/profile_images/2075301904578650112/x1XfixFT_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:25"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805082554_twitter_com_badapple7788_status_2084918809627119894.json": {
       "status": "unknown",
@@ -7191,7 +7195,7 @@
           "https://pbs.twimg.com/profile_images/2084900687897661440/EUY_nvTF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805091135_twitter_com_badapple7788_status_2084930304540869093.json": {
       "status": "unknown",
@@ -7203,7 +7207,7 @@
           "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805091150_twitter_com_badapple7788_status_2084930367556071788.json": {
       "status": "unknown",
@@ -7215,7 +7219,7 @@
           "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805125001_twitter_com_badapple7788_status_2084985275227521237.json": {
       "status": "unknown",
@@ -7227,7 +7231,7 @@
           "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805140759_twitter_com_badapple7788_status_2085004895867031887.json": {
       "status": "unknown",
@@ -7238,7 +7242,7 @@
           "https://pbs.twimg.com/profile_images/2084900687897661440/EUY_nvTF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805140818_twitter_com_badapple7788_status_2085004974392803392.json": {
       "status": "unknown",
@@ -7251,7 +7255,7 @@
           "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805140901_twitter_com_badapple7788_status_2085005154676510834.json": {
       "status": "unknown",
@@ -7263,7 +7267,7 @@
           "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260805140943_twitter_com_badapple7788_status_2085005332779319716.json": {
       "status": "unknown",
@@ -7275,7 +7279,7 @@
           "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260806135417_twitter_com_badapple7788_status_2085363837780492612.json": {
       "status": "unknown",
@@ -7287,7 +7291,7 @@
           "https://pbs.twimg.com/profile_images/1793002232503476224/hbBsEqIH_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260806135451_twitter_com_badapple7788_status_2085363979329933822.json": {
       "status": "unknown",
@@ -7299,7 +7303,7 @@
           "https://pbs.twimg.com/profile_images/2072349709927403520/TbAcND3U_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260806140112_twitter_com_badapple7788_status_2085365578496381070.json": {
       "status": "unknown",
@@ -7310,7 +7314,7 @@
           "https://pbs.twimg.com/profile_images/2084900687897661440/EUY_nvTF_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260806154910_twitter_com_badapple7788_status_2085392746106560806.json": {
       "status": "unknown",
@@ -7321,7 +7325,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260806155247_twitter_com_badapple7788_status_2085393657008652391.json": {
       "status": "unknown",
@@ -7332,7 +7336,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260806155533_twitter_com_badapple7788_status_2085394352776544756.json": {
       "status": "unknown",
@@ -7343,7 +7347,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260806155704_twitter_com_badapple7788_status_2085394736408588480.json": {
       "status": "unknown",
@@ -7355,7 +7359,7 @@
           "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260807083840_twitter_com_badapple7788_status_2085646795275903068.json": {
       "status": "unknown",
@@ -7366,7 +7370,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809003323_twitter_com_badapple7788_status_2086249445877055850.json": {
       "status": "unknown",
@@ -7380,7 +7384,7 @@
           "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:25"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809024324_twitter_com_badapple7788_status_2086282167710310833.json": {
       "status": "unknown",
@@ -7392,7 +7396,7 @@
           "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809030536_twitter_com_badapple7788_status_2086287754078650534.json": {
       "status": "unknown",
@@ -7403,7 +7407,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809094324_twitter_com_badapple7788_status_2086387865462993306.json": {
       "status": "unknown",
@@ -7415,7 +7419,7 @@
           "https://pbs.twimg.com/profile_images/2077057981150326784/ZBQkVSD2_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809111746_twitter_com_badapple7788_status_2086411610747437558.json": {
       "status": "unknown",
@@ -7426,7 +7430,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809231525_twitter_com_badapple7788_status_2086592215506391046.json": {
       "status": "unknown",
@@ -7437,7 +7441,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809231631_twitter_com_badapple7788_status_2086592489813860455.json": {
       "status": "unknown",
@@ -7450,7 +7454,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809232203_twitter_com_badapple7788_status_2086593884591992877.json": {
       "status": "unknown",
@@ -7464,7 +7468,7 @@
           "https://pbs.twimg.com/profile_images/1821856172485570561/tZFR-wb__normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:25"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809232224_twitter_com_badapple7788_status_2086593972932313286.json": {
       "status": "unknown",
@@ -7478,7 +7482,7 @@
           "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809233206_twitter_com_badapple7788_status_2086596411198747039.json": {
       "status": "unknown",
@@ -7490,7 +7494,7 @@
           "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809233226_twitter_com_badapple7788_status_2086596497634943413.json": {
       "status": "unknown",
@@ -7504,7 +7508,7 @@
           "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809233534_twitter_com_badapple7788_status_2086597285585281475.json": {
       "status": "unknown",
@@ -7515,7 +7519,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260809233812_twitter_com_badapple7788_status_2086597949405180010.json": {
       "status": "unknown",
@@ -7540,7 +7544,7 @@
           "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:35"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260810000729_twitter_com_badapple7788_status_2086605315114713505.json": {
       "status": "unknown",
@@ -7552,7 +7556,7 @@
           "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:20"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260810005651_twitter_com_badapple7788_status_2086617740765466825.json": {
       "status": "unknown",
@@ -7565,7 +7569,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:25"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260810024056_twitter_com_badapple7788_status_2086643932855968104.json": {
       "status": "unknown",
@@ -7578,7 +7582,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:24"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260810053109_twitter_com_badapple7788_status_2086686769219817575.json": {
       "status": "unknown",
@@ -7589,7 +7593,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811031043_twitter_com_badapple7788_status_2087013818191028531.json": {
       "status": "unknown",
@@ -7604,7 +7608,7 @@
           "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:28"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811031733_twitter_com_badapple7788_status_2087015535385215245.json": {
       "status": "unknown",
@@ -7616,7 +7620,7 @@
           "https://pbs.twimg.com/profile_images/2086102773620498433/HZK3v4ox_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811032259_twitter_com_badapple7788_status_2087016905458753658.json": {
       "status": "unknown",
@@ -7628,7 +7632,7 @@
           "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811041719_twitter_com_badapple7788_status_2087030575903424936.json": {
       "status": "unknown",
@@ -7640,7 +7644,7 @@
           "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811043825_twitter_com_badapple7788_status_2087035889306460229.json": {
       "status": "unknown",
@@ -7651,7 +7655,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811050119_twitter_com_badapple7788_status_2087041651592364243.json": {
       "status": "unknown",
@@ -7662,7 +7666,7 @@
           "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811063525_twitter_com_badapple7788_status_2087065330736824799.json": {
       "status": "unknown",
@@ -7676,7 +7680,7 @@
           "https://pbs.twimg.com/profile_images/2082464642186805248/bXxai3or_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811095819_twitter_com_badapple7788_status_2087116393548591237.json": {
       "status": "unknown",
@@ -7687,7 +7691,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811100114_twitter_com_badapple7788_status_2087117127530717583.json": {
       "status": "unknown",
@@ -7698,7 +7702,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811104818_twitter_com_badapple7788_status_2087128970756288792.json": {
       "status": "unknown",
@@ -7711,7 +7715,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:25"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811104834_twitter_com_badapple7788_status_2087129037655445742.json": {
       "status": "unknown",
@@ -7722,7 +7726,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:21"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811120832_twitter_com_badapple7788_status_2087149163247268168.json": {
       "status": "unknown",
@@ -7736,7 +7740,7 @@
           "https://pbs.twimg.com/profile_images/2045038302290726912/uS2T01LE_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260811225850_twitter_com_badapple7788_status_2087312817980604881.json": {
       "status": "unknown",
@@ -7747,7 +7751,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260812095916_twitter_com_badapple7788_status_2087479018681741603.json": {
       "status": "unknown",
@@ -7758,7 +7762,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260812213247_twitter_com_badapple7788_status_2087653551090860079.json": {
       "status": "unknown",
@@ -7769,7 +7773,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260812213419_twitter_com_badapple7788_status_2087653935779893489.json": {
       "status": "unknown",
@@ -7781,7 +7785,7 @@
           "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260812214446_twitter_com_badapple7788_status_2087656564547309722.json": {
       "status": "unknown",
@@ -7792,7 +7796,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260812215239_twitter_com_badapple7788_status_2087658550835450095.json": {
       "status": "unknown",
@@ -7803,7 +7807,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260812220502_twitter_com_badapple7788_status_2087661663688503395.json": {
       "status": "unknown",
@@ -7814,7 +7818,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260814073947_twitter_com_badapple7788_status_2088168693507432661.json": {
       "status": "unknown",
@@ -7825,7 +7829,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260814233325_twitter_com_badapple7788_status_2088408682443001913.json": {
       "status": "unknown",
@@ -7836,7 +7840,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260815014843_twitter_com_badapple7788_status_2088442733992296678.json": {
       "status": "unknown",
@@ -7847,7 +7851,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260815091638_twitter_com_badapple7788_status_2088555453295022189.json": {
       "status": "unknown",
@@ -7859,7 +7863,7 @@
           "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260815093345_twitter_com_badapple7788_status_2088559763827441667.json": {
       "status": "unknown",
@@ -7870,7 +7874,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260815100319_twitter_com_badapple7788_status_2088567201163088212.json": {
       "status": "unknown",
@@ -7887,7 +7891,7 @@
           "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:23"
+      "last_updated": "2026-09-15T18:06:02"
     },
     "20260815102947_twitter_com_badapple7788_status_2088573862590222839.json": {
       "status": "unknown",
@@ -7898,7 +7902,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     },
     "20260816042341_twitter_com_badapple7788_status_2088844121008128192.json": {
       "status": "unknown",
@@ -7909,7 +7913,7 @@
           "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-15T18:02:22"
+      "last_updated": "2026-09-15T18:06:01"
     }
   }
 }
