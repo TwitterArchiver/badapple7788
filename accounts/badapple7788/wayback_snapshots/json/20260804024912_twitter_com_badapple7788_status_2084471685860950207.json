@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2084320784600936717",
+    "created_at": "2026-08-04T02:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084471685860950207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990166110067662848",
+          "start": 0,
+          "username": "engine613089311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084471685860950207",
+    "in_reply_to_user_id": "1990166110067662848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084320784600936717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@engine613089311 挂赞赏码 时不时的转发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2084320784600936717",
+        "created_at": "2026-08-04T02:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084471685860950207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990166110067662848",
+              "start": 0,
+              "username": "engine613089311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084471685860950207",
+        "in_reply_to_user_id": "1990166110067662848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084320784600936717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@engine613089311 挂赞赏码 时不时的转发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990166110067662848",
+        "conversation_id": "2084320784600936717",
+        "created_at": "2026-08-03T16:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084320784600936717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084320784600936717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候我大喊几声太痛苦了就有人砸钱给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒opi\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 59,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 36,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 348,
+          "like_count": 3295,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 1918
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T21:12:42.000Z",
+        "description": "07摩羯intj，switch（应该？）门槛2778/1145.14\nhttps://t.co/gdE2DLPs6f\n匿名问题，勋美康粉\n男，不见证不打拳，专心经营自己的唐氏生活中...这里算是我的牢骚日记本，偶尔更新点鬼脑发动的黄色废料，浩all党\n最近暂时不发帖\n我的小号@wazgsj8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 138,
+                "username": "wazgsj8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/engine48856",
+                "end": 58,
+                "expanded_url": "https://ngl.link/engine48856",
+                "start": 35,
+                "url": "https://t.co/gdE2DLPs6f"
+              }
+            ]
+          }
+        },
+        "id": "1990166110067662848",
+        "location": "你心里",
+        "name": "engine（已解放）",
+        "pinned_tweet_id": "2048669196079472871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011991340222201856/_IxOo9AT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 395,
+          "like_count": 26590,
+          "listed_count": 0,
+          "media_count": 542,
+          "tweet_count": 5234
+        },
+        "url": "",
+        "username": "engine613089311",
+        "verified": false
+      }
+    ]
+  }
+}

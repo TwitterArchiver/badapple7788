@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083908955601088512"
+      ]
+    },
+    "author_id": "1545050439049064450",
+    "conversation_id": "2083908962488033468",
+    "created_at": "2026-08-02T13:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083908962488033468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/szLBY6Ejt8",
+          "end": 44,
+          "expanded_url": "https://x.com/badapple7788/status/2083908962488033468/photo/1",
+          "media_key": "3_2083908955601088512",
+          "start": 21,
+          "url": "https://t.co/szLBY6Ejt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083908962488033468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "丽江是真逆天，我打了20多分钟车还没有。 https://t.co/szLBY6Ejt8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1414,
+        "media_key": "3_2083908955601088512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuIJ3LbsAAhCYq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083908955601088512"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083908962488033468",
+        "created_at": "2026-08-02T13:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083908962488033468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/szLBY6Ejt8",
+              "end": 44,
+              "expanded_url": "https://x.com/badapple7788/status/2083908962488033468/photo/1",
+              "media_key": "3_2083908955601088512",
+              "start": 21,
+              "url": "https://t.co/szLBY6Ejt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083908962488033468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "丽江是真逆天，我打了20多分钟车还没有。 https://t.co/szLBY6Ejt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 346,
+          "like_count": 3261,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083932827553550336"
+      ]
+    },
+    "author_id": "1545050439049064450",
+    "conversation_id": "2083917783394550109",
+    "created_at": "2026-08-02T15:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083932835975721447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1918261520817065984",
+          "start": 0,
+          "username": "EmptyVx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xK39ocsant",
+          "end": 40,
+          "expanded_url": "https://x.com/badapple7788/status/2083932835975721447/photo/1",
+          "media_key": "3_2083932827553550336",
+          "start": 17,
+          "url": "https://t.co/xK39ocsant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083932835975721447",
+    "in_reply_to_user_id": "1918261520817065984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083917783394550109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EmptyVx 为啥我133😭 https://t.co/xK39ocsant"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2083932827553550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOud3ZIa0AA58Cw.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2083917763232616448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuQKiKbUAAOBrZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083932827553550336"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083917783394550109",
+        "created_at": "2026-08-02T15:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083932835975721447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1918261520817065984",
+              "start": 0,
+              "username": "EmptyVx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xK39ocsant",
+              "end": 40,
+              "expanded_url": "https://x.com/badapple7788/status/2083932835975721447/photo/1",
+              "media_key": "3_2083932827553550336",
+              "start": 17,
+              "url": "https://t.co/xK39ocsant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932835975721447",
+        "in_reply_to_user_id": "1918261520817065984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083917783394550109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EmptyVx 为啥我133😭 https://t.co/xK39ocsant"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083917763232616448"
+          ]
+        },
+        "author_id": "1918261520817065984",
+        "conversation_id": "2083917783394550109",
+        "created_at": "2026-08-02T14:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083917783394550109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mobile.yangkeduo.com/goods2.html?ps…",
+              "end": 44,
+              "expanded_url": "https://mobile.yangkeduo.com/goods2.html?ps=ZSR3mh9yXK",
+              "start": 21,
+              "unwound_url": "https://mobile.yangkeduo.com/goods2.html?refer_share_id=MgSlnSzTy947gyiUCm8BaKMqX9z63dLA&refer_share_channel=copy_link&_oak_share_detail_id=28464188864&pxq_secret_key=BG6SZF7QBQS3IWQ4K5HDI45HOM655YVEMT5UFYSHDNOMJMOXBUCA&_oak_share_time=1785679667&share_oak_rcto=YWL03vv95vmiITa8aY1omWXhkRkFA0ER_233iSrTsNPiwq9sR8BNtk0j&share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&page_from=26&refer_share_uin=3FAFW6V3UESDVNMP2EYFKJLIGQ_GEXDA&goods_id=979429572399&_oak_share_snapshot_num=13300&_oak_share_ticket=01-0000000029-5695b9c4e0f62be8ea47cdcd6c9fef1f060187f35d7f25ad93e3e3d7c69c2e5a-1786975668",
+              "url": "https://t.co/v8z1jxIwHI"
+            },
+            {
+              "display_url": "pic.x.com/Od49k7BDNv",
+              "end": 68,
+              "expanded_url": "https://x.com/EmptyVx/status/2083917783394550109/photo/1",
+              "media_key": "3_2083917763232616448",
+              "start": 45,
+              "url": "https://t.co/Od49k7BDNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917783394550109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "pdd再次上线白兔bron，速买即将售尽！https://t.co/v8z1jxIwHI https://t.co/Od49k7BDNv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 346,
+          "like_count": 3263,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 1888
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T11:09:46.000Z",
+        "description": "非二元，非健全，无性恋，我能罵你說明你也是糖到極致了，看见了会回Fo💅",
+        "id": "1918261520817065984",
+        "location": "塔菲國",
+        "name": "糖人日記",
+        "pinned_tweet_id": "2082358679521931763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066775745784090624/pkNSZG9b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 230,
+          "like_count": 117,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "EmptyVx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2081660942467870940",
+    "created_at": "2026-07-27T08:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081660942467870940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bigjusir/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bigjusir/status/2081331865231974599",
+          "start": 5,
+          "url": "https://t.co/91ork2XrjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081660942467870940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081331865231974599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那石平呢 https://t.co/91ork2XrjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2081331645857300480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJgGsMagAACdwX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2081660942467870940",
+        "created_at": "2026-07-27T08:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081660942467870940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigjusir/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bigjusir/status/2081331865231974599",
+              "start": 5,
+              "url": "https://t.co/91ork2XrjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081660942467870940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081331865231974599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那石平呢 https://t.co/91ork2XrjY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081331645857300480"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+              "id": "1142154424866856960",
+              "name": "JP - National Pension"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1400506348727504906",
+              "name": "Living abroad"
+            }
+          }
+        ],
+        "conversation_id": "2081331865231974599",
+        "created_at": "2026-07-26T10:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081331865231974599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asahi/status/2…",
+              "end": 45,
+              "expanded_url": "https://x.com/asahi/status/2080607440866034160?s=20",
+              "start": 22,
+              "url": "https://t.co/S4W0RWBo1V"
+            },
+            {
+              "display_url": "pic.x.com/Udgy4E09N7",
+              "end": 69,
+              "expanded_url": "https://x.com/bigjusir/status/2081331865231974599/photo/1",
+              "media_key": "3_2081331645857300480",
+              "start": 46,
+              "url": "https://t.co/Udgy4E09N7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081331865231974599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1874,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080607440866034160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本人的政策体现了我这个图片是完全正确的。\nhttps://t.co/S4W0RWBo1V https://t.co/Udgy4E09N7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 319,
+          "like_count": 3111,
+          "listed_count": 1,
+          "media_count": 324,
+          "tweet_count": 1823
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "location": "中华人民共和国",
+        "name": "jusir",
+        "pinned_tweet_id": "2081322488399863869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 2115,
+          "like_count": 5858,
+          "listed_count": 10,
+          "media_count": 693,
+          "tweet_count": 2999
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true
+      }
+    ]
+  }
+}

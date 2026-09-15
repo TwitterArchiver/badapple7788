@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2082642273649717408",
+    "created_at": "2026-07-30T01:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082642273649717408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1944884395825139712",
+          "start": 3,
+          "username": "jackzho7941435"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082642273649717408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082353359391240677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jackzho7941435: 研究证实了，中国人做题给心脏做废了\n\n中国学生长期处于高压学习压力下，会对身体造成终身不可逆不可修复的损伤 \n\n中国学生坐下后的静息心率是明显高于美国学生的，就是给虐的。 然后\n\n恐怖的来了：中国学生的HRV整体性下降明显\n\nHRV什么鬼…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2082350395402461184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX-pt_boAAegC5.jpg",
+        "width": 1070
+      },
+      {
+        "height": 919,
+        "media_key": "3_2082350621131505664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOX-225bgAAwFR_.jpg",
+        "width": 1966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2082642273649717408",
+        "created_at": "2026-07-30T01:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082642273649717408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1944884395825139712",
+              "start": 3,
+              "username": "jackzho7941435"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082642273649717408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082353359391240677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jackzho7941435: 研究证实了，中国人做题给心脏做废了\n\n中国学生长期处于高压学习压力下，会对身体造成终身不可逆不可修复的损伤 \n\n中国学生坐下后的静息心率是明显高于美国学生的，就是给虐的。 然后\n\n恐怖的来了：中国学生的HRV整体性下降明显\n\nHRV什么鬼…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082350395402461184",
+            "3_2082350621131505664"
+          ]
+        },
+        "author_id": "1944884395825139712",
+        "conversation_id": "2082353359391240677",
+        "created_at": "2026-07-29T06:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:31:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082353237185941999",
+          "2082353359391240677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5NadxdaCko",
+              "end": 165,
+              "expanded_url": "https://x.com/jackzho7941435/status/2082353359391240677/photo/1",
+              "media_key": "3_2082350395402461184",
+              "start": 142,
+              "url": "https://t.co/5NadxdaCko"
+            },
+            {
+              "display_url": "pic.x.com/5NadxdaCko",
+              "end": 165,
+              "expanded_url": "https://x.com/jackzho7941435/status/2082353359391240677/photo/1",
+              "media_key": "3_2082350621131505664",
+              "start": 142,
+              "url": "https://t.co/5NadxdaCko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082353359391240677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "研究证实了，中国人做题给心脏做废了\n\n中国学生长期处于高压学习压力下，会对身体造成终身不可逆不可修复的损伤 \n\n中国学生坐下后的静息心率是明显高于美国学生的，就是给虐的。 然后\n\n恐怖的来了：中国学生的HRV整体性下降明显\n\nHRV什么鬼？ 你可以简单理解为你身体的 对抗猝死的功能\n\n学术来说：HRV是每一次心跳之间的时间间隔，变化得是否灵活，什么意思？\n\nHRV较高：自主神经调节灵活，身体恢复较好，通常见于睡眠充足、运动较好、压力较低时，耐操都高，不容易猝死\n\nHRV较低：身体更偏紧绷状态，常见于疲劳、熬夜、焦虑、感染、饮酒、过度训练或长期压力，容易发生猝死。\n\n基于此现在中国人容易猝死，开车猝死，等车猝死，坐车猝死，车站猝死，等等吧。 死的随机的原因。\n\n极大概率是你当年中学高中 被卷子分数给 迫害，造成身体受到不可逆的损伤了\n\n再配合成年情况下，继续生活在高压中，房贷996，孩子教育，老人NPD等等。 这样看来，中国人是很顽强的，同样的一套活你让美国人经历30年的地狱阿修罗生活，估计能猝死80%"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 83845,
+          "like_count": 985,
+          "quote_count": 6,
+          "reply_count": 87,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "研究证实了，中国人做题给心脏做废了\n\n中国学生长期处于高压学习压力下，会对身体造成终身不可逆不可修复的损伤 \n\n中国学生坐下后的静息心率是明显高于美国学生的，就是给虐的。 然后\n\n恐怖的来了：中国学生的HRV整体性下降明显\n\nHRV什么鬼？ 你可以简单理解为你身体的 对抗猝死的功能 https://t.co/5NadxdaCko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 327,
+          "like_count": 3192,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1849
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T22:19:21.000Z",
+        "description": "似水流年是一个人所有的一切，只有这个东西才真正归你所有。",
+        "id": "1944884395825139712",
+        "name": "jack.支",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075063224819679232/hHBaIcMc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1581,
+          "like_count": 6855,
+          "listed_count": 16,
+          "media_count": 962,
+          "tweet_count": 8761
+        },
+        "url": "",
+        "username": "jackzho7941435",
+        "verified": true
+      }
+    ]
+  }
+}

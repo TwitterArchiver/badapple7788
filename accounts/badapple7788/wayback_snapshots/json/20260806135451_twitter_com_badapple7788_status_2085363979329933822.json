@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2085004895867031887",
+    "created_at": "2026-08-06T13:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085363979329933822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2072348873948053504",
+          "start": 0,
+          "username": "angelkawaii2TwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085363979329933822",
+    "in_reply_to_user_id": "2072348873948053504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085187764925120649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaii2TwT sns 力月西 奥沙西泮 今天是第二天了，我可能喝点酒，可能只吃一个sns吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2085004895867031887",
+        "created_at": "2026-08-06T13:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085363979329933822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2072348873948053504",
+              "start": 0,
+              "username": "angelkawaii2TwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085363979329933822",
+        "in_reply_to_user_id": "2072348873948053504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085187764925120649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaii2TwT sns 力月西 奥沙西泮 今天是第二天了，我可能喝点酒，可能只吃一个sns吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072348873948053504",
+        "conversation_id": "2085004895867031887",
+        "created_at": "2026-08-06T02:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085187764925120649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "badapple7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085187764925120649",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085004895867031887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badapple7788 哪三种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒opi\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 59,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 36,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084900687897661440/EUY_nvTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 351,
+          "like_count": 3316,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 1944
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T15:58:08.000Z",
+        "description": "谨遵用法用量 上网快乐冲浪",
+        "id": "2072348873948053504",
+        "name": "myslee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349709927403520/TbAcND3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 124,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "angelkawaii2TwT",
+        "verified": false
+      }
+    ]
+  }
+}

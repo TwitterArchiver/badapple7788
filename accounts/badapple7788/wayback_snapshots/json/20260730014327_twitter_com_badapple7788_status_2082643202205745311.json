@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2082643202205745311",
+    "created_at": "2026-07-30T01:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T02:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082643202205745311"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082643202205745311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "也算是个教训吧。哪怕是可乐定服用了，戒断反应也是很严重，只能说是除了焦虑都差不多解决了，焦虑发作起来太出生了，没办法，服用2t绿普好了一点。抗下焦虑，这大抵是最后一次了，以后不欧迪了。我体质差，干不了。\n就算我不那么干，一天也是至少十几二十几粒药，再也不敢了。想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2082643202205745311",
+        "created_at": "2026-07-30T01:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082643202205745311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082643202205745311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也算是个教训吧。哪怕是可乐定服用了，戒断反应也是很严重，只能说是除了焦虑都差不多解决了，焦虑发作起来太出生了，没办法，服用2t绿普好了一点。抗下焦虑，这大抵是最后一次了，以后不欧迪了。我体质差，干不了。\n就算我不那么干，一天也是至少十几二十几粒药，再也不敢了。想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 327,
+          "like_count": 3192,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1850
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      }
+    ]
+  }
+}

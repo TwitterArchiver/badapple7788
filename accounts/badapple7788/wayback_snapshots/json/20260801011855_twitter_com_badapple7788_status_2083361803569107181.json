@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2083361803569107181",
+    "created_at": "2026-08-01T01:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083361803569107181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bocchi_kk1/sta…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/bocchi_kk1/status/2083265724261470296",
+          "start": 18,
+          "url": "https://t.co/RONETcDej8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083361803569107181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083265724261470296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物滥用很亲爱的，我们必须吸毒、爽 https://t.co/RONETcDej8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083361803569107181",
+        "created_at": "2026-08-01T01:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083361803569107181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bocchi_kk1/sta…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/bocchi_kk1/status/2083265724261470296",
+              "start": 18,
+              "url": "https://t.co/RONETcDej8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083361803569107181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083265724261470296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物滥用很亲爱的，我们必须吸毒、爽 https://t.co/RONETcDej8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810616157059301376",
+        "conversation_id": "2083265724261470296",
+        "created_at": "2026-07-31T18:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083265724261470296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6De_dian/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/6De_dian/status/2083112579333869741",
+              "start": 18,
+              "url": "https://t.co/NCf7bdWIrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083265724261470296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 565,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083112579333869741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物滥用很爽，我们必须吸毒、亲爱的 https://t.co/NCf7bdWIrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 334,
+          "like_count": 3219,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1862
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-09T10:05:14.000Z",
+        "description": "我是傻逼",
+        "id": "1810616157059301376",
+        "location": "你家",
+        "name": "可爱波奇大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 148,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Bocchi_Kk1",
+        "verified": false
+      }
+    ]
+  }
+}

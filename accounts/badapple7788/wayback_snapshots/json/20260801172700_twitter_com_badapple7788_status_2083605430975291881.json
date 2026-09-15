@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2083595687758004690",
+    "created_at": "2026-08-01T17:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083605430975291881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1677250155886829568",
+          "start": 0,
+          "username": "zifenthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083605430975291881",
+    "in_reply_to_user_id": "1677250155886829568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083595687758004690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifenthree 而且你开了保护费只要提到那几个关键词他们照样封你……可能一开始就是删帖子，后面直接把删了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_2083595678845161472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOprOwUa0AA5bSD.jpg",
+        "width": 1170
+      },
+      {
+        "height": 180,
+        "media_key": "3_2083595678849376256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOprOwVbIAAsaR2.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083595678849347585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOprOwVasAE1C3B.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083595687758004690",
+        "created_at": "2026-08-01T17:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083605430975291881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1677250155886829568",
+              "start": 0,
+              "username": "zifenthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083605430975291881",
+        "in_reply_to_user_id": "1677250155886829568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083595687758004690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifenthree 而且你开了保护费只要提到那几个关键词他们照样封你……可能一开始就是删帖子，后面直接把删了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083595678845161472",
+            "3_2083595678849376256",
+            "3_2083595678849347585"
+          ]
+        },
+        "author_id": "1677250155886829568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083595687758004690",
+        "created_at": "2026-08-01T16:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083595687758004690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QH0R7UFJnp",
+              "end": 70,
+              "expanded_url": "https://x.com/zifenthree/status/2083595687758004690/photo/1",
+              "media_key": "3_2083595678845161472",
+              "start": 47,
+              "url": "https://t.co/QH0R7UFJnp"
+            },
+            {
+              "display_url": "pic.x.com/QH0R7UFJnp",
+              "end": 70,
+              "expanded_url": "https://x.com/zifenthree/status/2083595687758004690/photo/1",
+              "media_key": "3_2083595678849376256",
+              "start": 47,
+              "url": "https://t.co/QH0R7UFJnp"
+            },
+            {
+              "display_url": "pic.x.com/QH0R7UFJnp",
+              "end": 70,
+              "expanded_url": "https://x.com/zifenthree/status/2083595687758004690/photo/1",
+              "media_key": "3_2083595678849347585",
+              "start": 47,
+              "url": "https://t.co/QH0R7UFJnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083595687758004690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了防止msk再搞我我直接开个蓝v 还有就是为什么我的审查这么久 正常来说不是几秒的事吗？🤔 https://t.co/QH0R7UFJnp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 340,
+          "like_count": 3245,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1880
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-07T09:36:22.000Z",
+        "description": "09 心理男生理男 oder 瘾君子 大毒枭 健全逼没有任何心理疾病 纯爱磕",
+        "id": "1677250155886829568",
+        "name": "自分 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083544615509225472/G7R9orI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 29,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "zifenthree",
+        "verified": false
+      }
+    ]
+  }
+}

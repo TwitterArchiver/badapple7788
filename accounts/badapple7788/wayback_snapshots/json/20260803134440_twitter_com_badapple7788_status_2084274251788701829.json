@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2084162087627141624",
+    "created_at": "2026-08-03T13:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084274251788701829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2005508045653356544",
+          "start": 0,
+          "username": "BenoitLuz74014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084274251788701829",
+    "in_reply_to_user_id": "2005508045653356544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084162087627141624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BenoitLuz74014 难道不是戴套吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2084162080350023680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxuXqWaMAA5G27.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2084162087627141624",
+        "created_at": "2026-08-03T13:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084274251788701829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2005508045653356544",
+              "start": 0,
+              "username": "BenoitLuz74014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084274251788701829",
+        "in_reply_to_user_id": "2005508045653356544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084162087627141624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BenoitLuz74014 难道不是戴套吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084162080350023680"
+          ]
+        },
+        "author_id": "2005508045653356544",
+        "conversation_id": "2084162087627141624",
+        "created_at": "2026-08-03T06:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084162087627141624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l0xxzGJpmm",
+              "end": 71,
+              "expanded_url": "https://x.com/BenoitLuz74014/status/2084162087627141624/photo/1",
+              "media_key": "3_2084162080350023680",
+              "start": 48,
+              "url": "https://t.co/l0xxzGJpmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084162087627141624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 198243,
+          "like_count": 409,
+          "quote_count": 1,
+          "reply_count": 440,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现在避孕措施的，都是让女孩子承受的，但做的时候最爽的是男生，就不能研发一种让男生吃的避孕药吗？ https://t.co/l0xxzGJpmm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒opi\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 59,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 36,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 349,
+          "like_count": 3295,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 1914
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-29T05:16:15.000Z",
+        "description": "08年/准高三/话痨王/搞笑女/此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子",
+        "id": "2005508045653356544",
+        "name": "徐欣怡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081470581401325568/vwCqtcPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "BenoitLuz74014",
+        "verified": false
+      }
+    ]
+  }
+}

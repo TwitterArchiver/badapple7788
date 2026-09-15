@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2088442733992296678",
+    "created_at": "2026-08-15T09:16:38.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088555453295022189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829548387936681984",
+          "start": 0,
+          "username": "Othercypl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088555453295022189",
+    "in_reply_to_user_id": "1829548387936681984",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088493881101050146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Othercypl 🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2088442733992296678",
+        "created_at": "2026-08-15T09:16:38.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088555453295022189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829548387936681984",
+              "start": 0,
+              "username": "Othercypl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088555453295022189",
+        "in_reply_to_user_id": "1829548387936681984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088493881101050146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Othercypl 🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829548387936681984",
+        "conversation_id": "2088442733992296678",
+        "created_at": "2026-08-15T05:11:58.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088493881101050146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "badapple7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088493881101050146",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088442733992296678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badapple7788 （发表勒一些尼欠窝50块钱的话）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "吃精品神药 做精品神人\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 外小号 发牢骚 不od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 42,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "is_identity_verified": false,
+        "location": "在你的心里🩵",
+        "most_recent_tweet_id": "2088555453295022189",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545050439049064450/1785170371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 393,
+          "like_count": 3356,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 2003
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-30T15:55:13.000Z",
+        "description": "08 17苦命高中生|OD|不鉴证|互fo|INST|友一切|\n鸽子神万岁！",
+        "id": "1829548387936681984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088493881101050146",
+        "name": "OtherB",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829548387936681984/1784734026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084254284196294657/hMDLUart_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 230,
+          "like_count": 2279,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "Othercypl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

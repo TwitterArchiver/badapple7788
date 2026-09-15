@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2081937915958239591",
+    "created_at": "2026-07-28T03:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081937915958239591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "166793593",
+          "start": 3,
+          "username": "animetrends"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081937915958239591",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081887620460695823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animetrends: ESPOSA CONTRATA DETECTIVE POR HATSUNE MIKU\n\nUn usuario japonés reveló cómo su esposa contrató a un detective privado tras…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2081887465661509632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORZnqUXsAA1no6.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2081887599757512704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORZvd3WUAAUMXo.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2081937915958239591",
+        "created_at": "2026-07-28T03:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081937915958239591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "166793593",
+              "start": 3,
+              "username": "animetrends"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081937915958239591",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081887620460695823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animetrends: ESPOSA CONTRATA DETECTIVE POR HATSUNE MIKU\n\nUn usuario japonés reveló cómo su esposa contrató a un detective privado tras…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081887465661509632",
+            "3_2081887599757512704"
+          ]
+        },
+        "author_id": "166793593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2081887620460695823",
+        "created_at": "2026-07-27T23:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T00:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081887620460695823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VG7kaw26N6",
+              "end": 302,
+              "expanded_url": "https://x.com/animetrends/status/2081887620460695823/photo/1",
+              "media_key": "3_2081887465661509632",
+              "start": 279,
+              "url": "https://t.co/VG7kaw26N6"
+            },
+            {
+              "display_url": "pic.x.com/VG7kaw26N6",
+              "end": 302,
+              "expanded_url": "https://x.com/animetrends/status/2081887620460695823/photo/1",
+              "media_key": "3_2081887599757512704",
+              "start": 279,
+              "url": "https://t.co/VG7kaw26N6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081887620460695823",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "ESPOSA CONTRATA DETECTIVE POR HATSUNE MIKU\n\nUn usuario japonés reveló cómo su esposa contrató a un detective privado tras sospechar que tenía una aventura.\n\nEl hombre salía misteriosamente en sus días libres, se encerraba con su celular e instaló un compartimento con candado en casa. Pero el reporte del investigador no halló ninguna amante: el marido se escapaba a cantar canciones de Hatsune Miku, a máquinas de garras y a eventos de la cantante virtual — en secreto, por miedo a que ella lo obligara a tirar su mercancía.\n\nAl conocer la verdad, la esposa sintió alivio y aceptó su afición. Como disculpa por el secreto, el marido terminó pagando los 870,000 yenes del detective — y llevándola dos noches a Tokyo Disneyland.\n\nSer otaku sale muy caro.\n\nVia: Miku_miku_panda"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 54566,
+          "like_count": 2055,
+          "quote_count": 15,
+          "reply_count": 20,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "ESPOSA CONTRATA DETECTIVE POR HATSUNE MIKU\n\nUn usuario japonés reveló cómo su esposa contrató a un detective privado tras sospechar que tenía una aventura.\n\nEl hombre salía misteriosamente en sus días libres, se encerraba con su celular e instaló un compartimento con candado en https://t.co/VG7kaw26N6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\n一天會發10+條推請見諒\n发疯了可能会发一些逆天的话\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 53,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 30,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 320,
+          "like_count": 3151,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-15T00:56:52.000Z",
+        "description": "Seguimos de cerca las tendencias del anime y la cultura japonesa.",
+        "id": "166793593",
+        "location": "Latinoamérica",
+        "name": "AnimeTrends",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003513482939867136/VilQZ22__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467014,
+          "following_count": 780,
+          "like_count": 348,
+          "listed_count": 967,
+          "media_count": 46258,
+          "tweet_count": 54662
+        },
+        "url": "",
+        "username": "animetrends",
+        "verified": true
+      }
+    ]
+  }
+}

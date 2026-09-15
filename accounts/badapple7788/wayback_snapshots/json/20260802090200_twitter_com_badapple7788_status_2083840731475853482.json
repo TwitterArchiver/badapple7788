@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2083840731475853482",
+    "created_at": "2026-08-02T09:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083840731475853482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaotunovo0/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/xiaotunovo0/status/2083617180487446651",
+          "start": 39,
+          "url": "https://t.co/bpNcW2qpp0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083840731475853482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083617180487446651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/bpNcW2qpp0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083840731475853482",
+        "created_at": "2026-08-02T09:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083840731475853482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaotunovo0/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/xiaotunovo0/status/2083617180487446651",
+              "start": 39,
+              "url": "https://t.co/bpNcW2qpp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083840731475853482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083617180487446651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/bpNcW2qpp0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1058185148",
+        "conversation_id": "2083617180487446651",
+        "created_at": "2026-08-01T18:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083617180487446651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki_youji/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/yuki_youji/status/2083353467218014618",
+              "start": 39,
+              "url": "https://t.co/K1typVJlhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083617180487446651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083353467218014618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "8月到现在一次药都没嗑，看来是戒成功了👏🏻👏🏻👏🏻自律的感觉真好👍🏻👍🏻👍🏻 https://t.co/K1typVJlhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 344,
+          "like_count": 3254,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 1883
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-03T16:23:49.000Z",
+        "description": "苔藓/生长在阴暗潮湿的藻类生物\n鸡友@kimika37\n宝宝们跟我互fo呀../我有精神疾病/od\n金属/核/二刺猿\n好想要同样属性的朋友😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "kimika37"
+              }
+            ]
+          }
+        },
+        "id": "1058185148",
+        "location": "地狱",
+        "name": "苔藓",
+        "pinned_tweet_id": "2083185169125830674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082479662048129024/xfMH5rVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 113,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "xiaotunovo0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2085392746106560806",
+    "created_at": "2026-08-06T15:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085392746106560806"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085392746106560806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唑吡坦没用了 得慢慢停药然后只吃咪达唑仑了 然后我要拿着这个盒到上海开开 看看能不能点菜加上别的安眠药吧 我手里还有点右佐匹克隆和阿普唑仑 我得换着吃 不然像我当年吃地达西尼连吃了3个月得配着褪黑素阿普唑仑就根本睡不着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2085392746106560806",
+        "created_at": "2026-08-06T15:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085392746106560806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085392746106560806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唑吡坦没用了 得慢慢停药然后只吃咪达唑仑了 然后我要拿着这个盒到上海开开 看看能不能点菜加上别的安眠药吧 我手里还有点右佐匹克隆和阿普唑仑 我得换着吃 不然像我当年吃地达西尼连吃了3个月得配着褪黑素阿普唑仑就根本睡不着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "吃精品神药 做精品神人\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 外小号 发牢骚 不od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 42,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 352,
+          "like_count": 3316,
+          "listed_count": 1,
+          "media_count": 339,
+          "tweet_count": 1947
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084536027491041280"
+      ]
+    },
+    "author_id": "1545050439049064450",
+    "conversation_id": "2084536045601947933",
+    "created_at": "2026-08-04T07:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084536045601947933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGYUhidGxN",
+          "end": 40,
+          "expanded_url": "https://x.com/badapple7788/status/2084536045601947933/photo/1",
+          "media_key": "3_2084536027491041280",
+          "start": 17,
+          "url": "https://t.co/gGYUhidGxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084536045601947933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "话说 这舍曲林一次吃7t 对劲么 https://t.co/gGYUhidGxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1999,
+        "media_key": "3_2084536027491041280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3CeQAbgAAbsQw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084536027491041280"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2084536045601947933",
+        "created_at": "2026-08-04T07:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084536045601947933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGYUhidGxN",
+              "end": 40,
+              "expanded_url": "https://x.com/badapple7788/status/2084536045601947933/photo/1",
+              "media_key": "3_2084536027491041280",
+              "start": 17,
+              "url": "https://t.co/gGYUhidGxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084536045601947933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说 这舍曲林一次吃7t 对劲么 https://t.co/gGYUhidGxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒opi\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 59,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 36,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084426899653357568/pnyULxk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 345,
+          "like_count": 3298,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      }
+    ]
+  }
+}

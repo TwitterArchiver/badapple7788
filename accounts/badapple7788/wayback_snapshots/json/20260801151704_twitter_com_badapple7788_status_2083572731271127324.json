@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2083572731271127324",
+    "created_at": "2026-08-01T15:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083572731271127324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083572731271127324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怀疑我的食欲是普瑞巴林催起来的\n特地看了下说明书说这个能和饭一起吃\n但是起效会慢点应该\n\n然后自从我吃了这个药之后 我就特别能吃 一天吃五顿 我不夸张就是我和我对象自由活动的时候我们俩就一直吃 他吗的一直吃吃吃 疯狂加餐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083572731271127324",
+        "created_at": "2026-08-01T15:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083572731271127324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083572731271127324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑我的食欲是普瑞巴林催起来的\n特地看了下说明书说这个能和饭一起吃\n但是起效会慢点应该\n\n然后自从我吃了这个药之后 我就特别能吃 一天吃五顿 我不夸张就是我和我对象自由活动的时候我们俩就一直吃 他吗的一直吃吃吃 疯狂加餐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 335,
+          "like_count": 3239,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1875
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      }
+    ]
+  }
+}

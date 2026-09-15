@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086617726307766272"
+      ]
+    },
+    "author_id": "1545050439049064450",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2086617740765466825",
+    "created_at": "2026-08-10T00:56:51.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T01:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086617740765466825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LR64GA1A8z",
+          "end": 32,
+          "expanded_url": "https://x.com/badapple7788/status/2086617740765466825/photo/1",
+          "media_key": "3_2086617726307766272",
+          "start": 9,
+          "url": "https://t.co/LR64GA1A8z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086617740765466825",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086617726307766272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "清汤寡水麻辣烫。 https://t.co/LR64GA1A8z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086617726307766272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUnxEabkAA-gkK.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086617726307766272"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2086617740765466825",
+        "created_at": "2026-08-10T00:56:51.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T01:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086617740765466825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LR64GA1A8z",
+              "end": 32,
+              "expanded_url": "https://x.com/badapple7788/status/2086617740765466825/photo/1",
+              "media_key": "3_2086617726307766272",
+              "start": 9,
+              "url": "https://t.co/LR64GA1A8z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086617740765466825",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086617726307766272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清汤寡水麻辣烫。 https://t.co/LR64GA1A8z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "吃精品神药 做精品神人\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 外小号 发牢骚 不od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 42,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "is_identity_verified": false,
+        "location": "在你的心里🩵",
+        "most_recent_tweet_id": "2086617740765466825",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545050439049064450/1785170371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085384816535756800/SivBGye-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 385,
+          "like_count": 3345,
+          "listed_count": 1,
+          "media_count": 342,
+          "tweet_count": 1978
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

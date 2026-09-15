@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084003526095806464"
+      ],
+      "media_source_tweet_id": [
+        "2084003531758194703"
+      ]
+    },
+    "author_id": "1545050439049064450",
+    "conversation_id": "2084041084125266368",
+    "created_at": "2026-08-02T22:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084041084125266368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989627406391635968",
+          "start": 3,
+          "username": "drug_artist2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BO3EbXlbrJ",
+          "end": 66,
+          "expanded_url": "https://x.com/drug_artist2/status/2084003531758194703/photo/1",
+          "media_key": "3_2084003526095806464",
+          "start": 43,
+          "url": "https://t.co/BO3EbXlbrJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084041084125266368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084003531758194703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @drug_artist2: oder必备技能小科普pt.1:\n防止被晶的教程 https://t.co/BO3EbXlbrJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2084003526095806464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOveKluaIAA1fNg.jpg",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084003526095806464"
+          ]
+        },
+        "author_id": "1989627406391635968",
+        "conversation_id": "2084003531758194703",
+        "created_at": "2026-08-02T19:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084003531758194703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BO3EbXlbrJ",
+              "end": 48,
+              "expanded_url": "https://x.com/drug_artist2/status/2084003531758194703/photo/1",
+              "media_key": "3_2084003526095806464",
+              "start": 25,
+              "url": "https://t.co/BO3EbXlbrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084003531758194703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 210,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "oder必备技能小科普pt.1:\n防止被晶的教程 https://t.co/BO3EbXlbrJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084003526095806464"
+          ],
+          "media_source_tweet_id": [
+            "2084003531758194703"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "conversation_id": "2084041084125266368",
+        "created_at": "2026-08-02T22:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084041084125266368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989627406391635968",
+              "start": 3,
+              "username": "drug_artist2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BO3EbXlbrJ",
+              "end": 66,
+              "expanded_url": "https://x.com/drug_artist2/status/2084003531758194703/photo/1",
+              "media_key": "3_2084003526095806464",
+              "start": 43,
+              "url": "https://t.co/BO3EbXlbrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084041084125266368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084003531758194703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @drug_artist2: oder必备技能小科普pt.1:\n防止被晶的教程 https://t.co/BO3EbXlbrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 345,
+          "like_count": 3271,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 55,
+          "like_count": 344,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

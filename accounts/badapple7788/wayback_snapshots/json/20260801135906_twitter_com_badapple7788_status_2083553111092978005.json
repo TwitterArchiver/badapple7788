@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2083553111092978005",
+    "created_at": "2026-08-01T13:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083553111092978005"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/songtdapo/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/songtdapo/status/2072271954112070026",
+          "start": 11,
+          "url": "https://t.co/oqgGZ6EYnr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083553111092978005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072271954112070026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小心肝肾一起衰竭🙏🏻 https://t.co/oqgGZ6EYnr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072271943798325248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIwWoAbgAAkbOE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2083553111092978005",
+        "created_at": "2026-08-01T13:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083553111092978005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/songtdapo/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/songtdapo/status/2072271954112070026",
+              "start": 11,
+              "url": "https://t.co/oqgGZ6EYnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553111092978005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072271954112070026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小心肝肾一起衰竭🙏🏻 https://t.co/oqgGZ6EYnr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072271943798325248"
+          ]
+        },
+        "author_id": "2062548436743053312",
+        "conversation_id": "2072271954112070026",
+        "created_at": "2026-07-01T10:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072271954112070026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cQMD9gxryk",
+              "end": 34,
+              "expanded_url": "https://x.com/songtdapo/status/2072271954112070026/photo/1",
+              "media_key": "3_2072271943798325248",
+              "start": 11,
+              "url": "https://t.co/cQMD9gxryk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072271954112070026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次，咋o，求建议 https://t.co/cQMD9gxryk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 335,
+          "like_count": 3230,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T14:55:41.000Z",
+        "description": "",
+        "id": "2062548436743053312",
+        "name": "song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063891620634988544/WFyDAO9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "songtdapo",
+        "verified": false
+      }
+    ]
+  }
+}

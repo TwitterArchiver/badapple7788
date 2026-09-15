@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2087661663688503395",
+    "created_at": "2026-08-12T22:05:02.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T23:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087661663688503395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2087661663688503395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就是很无语啊 别人家长看到od的话问就是这人怎么了怎么开始吃上了 就会问一下底层逻辑最基本的原因 然后我家长就是第一件事骂我第二件事直接把我所有抽屉都打开扔一边药\n牛逼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2087661663688503395",
+        "created_at": "2026-08-12T22:05:02.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087661663688503395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087661663688503395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是很无语啊 别人家长看到od的话问就是这人怎么了怎么开始吃上了 就会问一下底层逻辑最基本的原因 然后我家长就是第一件事骂我第二件事直接把我所有抽屉都打开扔一边药\n牛逼的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "吃精品神药 做精品神人\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 外小号 发牢骚 不od",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 65,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 42,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "is_identity_verified": false,
+        "location": "在你的心里🩵",
+        "most_recent_tweet_id": "2087661663688503395",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545050439049064450/1785170371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087088019090407424/kUIxcmQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 393,
+          "like_count": 3366,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 1999
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

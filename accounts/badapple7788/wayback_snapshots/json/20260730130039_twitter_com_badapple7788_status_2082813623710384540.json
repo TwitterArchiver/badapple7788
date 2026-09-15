@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2082813623710384540",
+    "created_at": "2026-07-30T13:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082813623710384540"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082813623710384540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还敢o吗 还是直接退圈算了\n虽然我很享受幻觉 谵妄 解离\n看到我时间线好多人o愈美片 我好羡慕\n因为我刚od的时候 愈美片和普瑞巴林一起死了\n我也就只有普瑞巴林的处方而已\n\n但是我o了很多次 除了pr都是bad trip\n我真的好难受啊\n天生不适合o 是吧\n那就彻底放弃好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2082813623710384540",
+        "created_at": "2026-07-30T13:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082813623710384540"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082813623710384540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还敢o吗 还是直接退圈算了\n虽然我很享受幻觉 谵妄 解离\n看到我时间线好多人o愈美片 我好羡慕\n因为我刚od的时候 愈美片和普瑞巴林一起死了\n我也就只有普瑞巴林的处方而已\n\n但是我o了很多次 除了pr都是bad trip\n我真的好难受啊\n天生不适合o 是吧\n那就彻底放弃好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒o戒断opi中焦虑好傻逼 \n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTgOHQ\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 46,
+                "url": "https://t.co/y3mWSTgOHQ"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 327,
+          "like_count": 3200,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1857
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      }
+    ]
+  }
+}

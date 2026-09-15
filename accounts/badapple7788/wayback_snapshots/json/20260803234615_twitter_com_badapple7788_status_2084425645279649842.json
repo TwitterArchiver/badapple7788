@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545050439049064450",
+    "conversation_id": "2080903669189664815",
+    "created_at": "2026-08-03T23:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084425645279649842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728741487868067840",
+          "start": 0,
+          "username": "chuan_xie32588"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+2pDHqM25zJY1N…",
+          "end": 39,
+          "expanded_url": "https://t.me/+2pDHqM25zJY1NGQ1",
+          "start": 16,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+2pDHqM25zJY1NGQ1",
+          "url": "https://t.co/kx1YMkoKq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084425645279649842",
+    "in_reply_to_user_id": "1728741487868067840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084305319136800842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_xie32588 https://t.co/kx1YMkoKq0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2084305313440952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzwo7MbcAALHUN.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2080903669189664815",
+        "created_at": "2026-08-03T23:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084425645279649842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728741487868067840",
+              "start": 0,
+              "username": "chuan_xie32588"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+2pDHqM25zJY1N…",
+              "end": 39,
+              "expanded_url": "https://t.me/+2pDHqM25zJY1NGQ1",
+              "start": 16,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+2pDHqM25zJY1NGQ1",
+              "url": "https://t.co/kx1YMkoKq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084425645279649842",
+        "in_reply_to_user_id": "1728741487868067840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084305319136800842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_xie32588 https://t.co/kx1YMkoKq0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084305313440952320"
+          ]
+        },
+        "author_id": "1728741487868067840",
+        "conversation_id": "2080903669189664815",
+        "created_at": "2026-08-03T15:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084305319136800842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "badapple7788"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CJR3P1SuBn",
+              "end": 45,
+              "expanded_url": "https://x.com/chuan_xie32588/status/2084305319136800842/photo/1",
+              "media_key": "3_2084305313440952320",
+              "start": 22,
+              "url": "https://t.co/CJR3P1SuBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084305319136800842",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080903669189664815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@badapple7788 过期了我想来😭 https://t.co/CJR3P1SuBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "已戒opi\n女的 含糖和抗雄 不好看 可互关 机器人除外 不见证 提问箱https://t.co/y3mWSTggSi\n@plane294 我的垃圾号专门发一些od等内容（内容仅供参考 不提倡不支持任何人诱导od）\nINTJ | 多人格 | ed | BMI15.5 | 友跨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "plane294"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ciluo8",
+                "end": 59,
+                "expanded_url": "https://ngl.link/ciluo8",
+                "start": 36,
+                "url": "https://t.co/y3mWSTggSi"
+              }
+            ]
+          }
+        },
+        "id": "1545050439049064450",
+        "location": "在你的心里🩵",
+        "name": "辞落",
+        "pinned_tweet_id": "2080903669189664815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080694452465897472/b_6NqSGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 348,
+          "like_count": 3295,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 1916
+        },
+        "url": "",
+        "username": "badapple7788",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-26T11:44:30.000Z",
+        "description": "",
+        "id": "1728741487868067840",
+        "name": "^-^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084261179497848833/Jb82W0Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "chuan_xie32588",
+        "verified": false
+      }
+    ]
+  }
+}
